@@ -1,0 +1,5 @@
+
+# Project Environment
+.env
+.env.*
+.DS_Store
